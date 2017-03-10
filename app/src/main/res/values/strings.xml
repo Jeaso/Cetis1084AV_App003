@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cetis1084AV_App003</string>
+    <string name="etNum1"></string>
+    <string name="etNum2"></string>
+    <string name="btnCalculo">Aceptar</string>
+    <string name="txtResultado"></string>
+</resources>
